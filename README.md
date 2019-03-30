@@ -3,6 +3,9 @@
 SermonCut is a program written to quickly process recordings from churches in order to extract the sermon into a mp3.
 Currently only working on Windows.
 
+## Documentation
+Documentation is available at https://sermoncut.readthedocs.io
+
 ## Installation
 #### Requirements:
 * Windows
